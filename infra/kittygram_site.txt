@@ -1,5 +1,5 @@
 IP: 51.250.102.61;
-name_taski: mannkkoo.ru;
-name_kittygram: manko.hopto.org;
+name_taski: https://manko.hopto.org;
+name_kittygram: https://mannkkoo.ru;
 login: admin;
 password: admin;
